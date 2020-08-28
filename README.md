@@ -12,9 +12,14 @@ My Othello is a project born to explore and improve upon my programming skills i
 ## What's the difference between the Python and the Web version of myOthello
 The Python version hosted on this repository is just a simple proof of concept I did for myself. It's hosted here for archiving purposes, but realistically is entirely outclassed and meant to be replaced by [myothello.club](https://myothello.club)
 
-![myOthello python version](./pythonScreenshot.PNG)
 
-![myOthello web version](./webScreenshot.PNG)
+Python version             |  Web version
+:-------------------------:|:-------------------------:
+![myOthello python version](./pythonScreenshot.PNG)  |  ![myOthello web version](./webScreenshot.PNG)
+
+
+
+
 
 ## How's myOthello structured?
 myOthello can have any number of pairs of clients, which connect to a matchmaking server that deals with pairing them up and mediates their communication. Additionally, there are two lamda function endpoints, GameLogic and AI, which deal with calculating game state transitions and AI moves, respectively. Here's a schematic:
