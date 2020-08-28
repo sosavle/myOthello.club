@@ -1,7 +1,7 @@
 # myOthello
 This repo holds a little Othello game I made using pygame, which I eventually improved on and ported to Javascript + Python when creating [myothello.club](https://myothello.club)
 
-![myOthello title screen](./pythonScreenshot.PNG)
+![myOthello title screen](./loginScreenshot.PNG)
 
 ## What is Othello?
 Known by other names such as reversi and renegade, Othello is a two-player board game where players take turns placing pieces on an 8x8 grid while striving to control the greatest amount of pieces by the end of the game. The rules of the game are simple, and are more thoroughly explained by [this wikiHow article](https://www.wikihow.com/Play-Othello), but the general idea is that one must surround opposing pieces with one's own in order to capture them, making them switch allegiances. The game takes minutes to learn but years to master, as the possibilities for different moves increase in a combinatorial fashion as the game progresses. Furthermore, one of the key aspects of Othello that distinguishes from other strategy games is the speed at which the tide of the match can shift, and it is not uncommon for a player who is all but wiped out to secure some strategic positions and be able to win back the board within the last few turns of the game.
