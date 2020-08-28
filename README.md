@@ -15,7 +15,7 @@ The Python version hosted on this repository is just a simple proof of concept I
 
 Python version             |  Web version
 :-------------------------:|:-------------------------:
-![myOthello python version](./pythonScreenshot.PNG)  |  ![myOthello web version](./webScreenshot.PNG)
+![myOthello python version](./pythonScreenshot.PNG)  |  ![myOthello web version](./onlineScreenshot.PNG)
 
 
 
