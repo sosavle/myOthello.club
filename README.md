@@ -24,5 +24,4 @@ Python version             |  Web version
 ## How's myOthello structured?
 myOthello can have any number of pairs of clients, which connect to a matchmaking server that deals with pairing them up and mediates their communication. Additionally, there are two lamda function endpoints, GameLogic and AI, which deal with calculating game state transitions and AI moves, respectively. Here's a schematic:
 
-![myOthello architecture schematic](./architecture.PNG)
-
+<p align="center"><img src="./architecture.PNG" alt="myOthello architecture diagram"/></p>
